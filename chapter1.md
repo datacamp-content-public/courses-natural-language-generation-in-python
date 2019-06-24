@@ -44,7 +44,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Define the model for text autocomplete
 
 ```yaml
 type: VideoExercise
